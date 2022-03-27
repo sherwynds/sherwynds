@@ -9,7 +9,9 @@
 
 ---
 
-### Internship and Other Experience
+### Experience
+
+#### Internships
 
 [<img src="https://user-images.githubusercontent.com/4008778/160269973-eaa0ba43-512a-48da-ae24-fdb33c7d0673.jpg" width=20 height=20)/> **Facebook/Meta**](https://about.facebook.com/meta/), *Incoming SWE*
 
@@ -22,6 +24,8 @@
 [<img src="https://user-images.githubusercontent.com/4008778/160271082-270bffaf-bb7f-4a11-b1d8-cbe1157e62de.jpeg" width=20 height=20/> **Canalyst Financial Modeling**](https://canalyst.com/), *SWE* → Quantemental equity research tooling/dashboards, data manipulation, parse trees
 
 [<img src="https://user-images.githubusercontent.com/4008778/160271383-d70c678e-a3e3-442c-828c-7365b3fadead.jpeg" width=20 height=20/> **Tech Bytes**](https://techbytes.page/#portfolio), *Data/AI/ML Lead* → Developed projects in: [data analysis](https://github.com/sherwynds/TechBytes), [ML algorithms](https://www.kaggle.com/sherwynds/used-car-pricing-model), [reinforcement learning](https://github.com/sherwynds/Taxi-Driver-Q-Learning)
+
+#### Relevant Student Experience
 
 [👨‍🏫 **UBC CS**](https://www.cs.ubc.ca/), *Teaching Assistant* → Led labs on: data analysis, algorithms, graphs, trees, search, recursion, functional programming
 
