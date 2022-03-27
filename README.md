@@ -5,7 +5,7 @@
 ---
 
 ### Education
-[<img src="https://user-images.githubusercontent.com/4008778/160269552-8680ef91-455a-44f1-911f-de4d35db77dd.jpeg" width=20 height=20)/>](https://www.cs.ubc.ca) **CS + Business**, *University of British Columbia* → [Applied ML](https://github.com/sherwynds/Applied-Machine-Learning), [AI II](https://github.com/sherwynds/Advanced-AI), [AI](https://github.com/sherwynds/Constraint-Satisfaction-DFS), [Databases](https://github.com/sherwynds/Car-Rental-Reservation-DB), Algorithms, Software Construction, [ML (Coursera)](https://github.com/sherwynds/Machine-Learning)
+[<img src="https://user-images.githubusercontent.com/4008778/160269552-8680ef91-455a-44f1-911f-de4d35db77dd.jpeg" width=20 height=20)/>](https://www.cs.ubc.ca) **CS + Business**, *University of British Columbia* → [Applied ML](https://github.com/sherwynds/Applied-Machine-Learning), [AI II](https://github.com/sherwynds/Advanced-AI), [AI](https://github.com/sherwynds/Constraint-Satisfaction-DFS), [Databases](https://github.com/sherwynds/Car-Rental-Reservation-DB), Algorithms, Software, [ML (Coursera)](https://github.com/sherwynds/Machine-Learning)
 
 ---
 
@@ -19,9 +19,9 @@
 
 [<img src="https://user-images.githubusercontent.com/4008778/160270449-b585e4e9-1054-40bb-9c26-b81ba6a71efb.png" width=20 height=20/> **Orbis Investments**](https://www.orbis.com/ca/institutional/home), *SWE* → Full-stack web dev including: DB, microservices, messaging, API development, front-end
 
-[<img src="https://user-images.githubusercontent.com/4008778/160271082-270bffaf-bb7f-4a11-b1d8-cbe1157e62de.jpeg" width=20 height=20/> **Canalyst Financial Modeling**](https://canalyst.com/), *SWE* → Quantemental equity research tooling/dashboards, data extraction/manipulation, parse trees
+[<img src="https://user-images.githubusercontent.com/4008778/160271082-270bffaf-bb7f-4a11-b1d8-cbe1157e62de.jpeg" width=20 height=20/> **Canalyst Financial Modeling**](https://canalyst.com/), *SWE* → Quantemental equity research tooling/dashboards, data manipulation, parse trees
 
-[<img src="https://user-images.githubusercontent.com/4008778/160271383-d70c678e-a3e3-442c-828c-7365b3fadead.jpeg" width=20 height=20/> **Tech Bytes**](https://techbytes.page/#portfolio), *Data/AI/ML Lead* → Developed projects in: [data analysis](https://github.com/sherwynds/TechBytes), [classification/regression algorithms](https://www.kaggle.com/sherwynds/used-car-pricing-model), [reinforcement learning](https://github.com/sherwynds/Taxi-Driver-Q-Learning)
+[<img src="https://user-images.githubusercontent.com/4008778/160271383-d70c678e-a3e3-442c-828c-7365b3fadead.jpeg" width=20 height=20/> **Tech Bytes**](https://techbytes.page/#portfolio), *Data/AI/ML Lead* → Developed projects in: [data analysis](https://github.com/sherwynds/TechBytes), [ML algorithms](https://www.kaggle.com/sherwynds/used-car-pricing-model), [reinforcement learning](https://github.com/sherwynds/Taxi-Driver-Q-Learning)
 
 [👨‍🏫 **UBC CS**](https://www.cs.ubc.ca/), *Teaching Assistant* → Led labs on: data analysis, algorithms, graphs, trees, search, recursion, functional programming
 
@@ -31,7 +31,7 @@
 
 ### Projects and Student Design Teams
 
-[🧙‍♂️ **Music Merlin Classifier**](https://github.com/sherwynds/Music-Merlin-Classifier), *Python/Scikit-learn* → Genre classification for Spotify songs using Logistic, Random Forest, LGBM models
+[🧙‍♂️ **Music Merlin Classifier**](https://github.com/sherwynds/Music-Merlin-Classifier), *Python/Scikit-learn* → Spotify genre classification using Logistic, Random Forest, LGBM models
 
 [💹 **Stock Analysis**](https://github.com/sherwynds/stock-analysis), *Python/Pandas/Matplotlib* → Dashboard to calculate/visualize technical indicators (MA, Bollinger Bands, RSI)
 
