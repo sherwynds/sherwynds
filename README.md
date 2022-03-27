@@ -43,7 +43,7 @@
 
 [👾 **Space Invaders**](https://github.com/sherwynds/Space-Invaders), *Python/Pygame* → Object-oriented implementation of the classic space invaders game
 
-[💳 **Credit Decisioning Model**](https://github.com/sherwynds/credible-clients-ml) → Predicts whether a borrower will default on their loan using K Nearest Neighbors
+[💳 **Credit Decisioning Model**](https://github.com/sherwynds/credible-clients-ml), *Python/Scikit-learn* → Predicts whether a borrower will default using K Nearest Neighbors
 
 ---
 
