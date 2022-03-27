@@ -29,7 +29,7 @@
 
 ---
 
-### Projects and Student Design Teams
+### Projects
 
 [🧙‍♂️ **Music Merlin Classifier**](https://github.com/sherwynds/Music-Merlin-Classifier), *Python/Scikit-learn* → Spotify genre classification using Logistic, Random Forest, LGBM models
 
