@@ -9,7 +9,7 @@
 
 ---
 
-### Internship and Part-Time Experience
+### Internship and Other Experience
 
 [<img src="https://user-images.githubusercontent.com/4008778/160269973-eaa0ba43-512a-48da-ae24-fdb33c7d0673.jpg" width=20 height=20)/> **Facebook/Meta**](https://about.facebook.com/meta/), *Incoming SWE*
 
