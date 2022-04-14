@@ -13,7 +13,7 @@
 
 #### Internships
 
-<!-- [<img src="https://user-images.githubusercontent.com/4008778/160269973-eaa0ba43-512a-48da-ae24-fdb33c7d0673.jpg" width=20 height=20)/> **Facebook/Meta**](https://about.facebook.com/meta/), *Incoming SWE* → App ad ranking models -->
+<!-- [<img src="https://user-images.githubusercontent.com/4008778/160269973-eaa0ba43-512a-48da-ae24-fdb33c7d0673.jpg" width=20 height=20)/> **Facebook/Meta**](https://about.facebook.com/meta/), *Incoming SWE* → Ad ranking models -->
 
 [<img src="https://user-images.githubusercontent.com/4008778/160270107-52d03bf9-987f-40e6-b65b-56f960f98a62.jpeg" width=20 height=20/> **Wealthsimple**](https://www.wealthsimple.com/), *Data* → Vector similarity search engine, classification problems, NLP chatbot, data warehousing pipelines
 
