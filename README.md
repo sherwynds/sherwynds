@@ -13,7 +13,7 @@
 
 #### Internships
 
-[<img src="https://user-images.githubusercontent.com/4008778/160269973-eaa0ba43-512a-48da-ae24-fdb33c7d0673.jpg" width=20 height=20)/> **Meta/Facebook**](https://about.facebook.com/meta/), *SWE* → Ad ranking ML models
+[<img src="https://user-images.githubusercontent.com/4008778/160269973-eaa0ba43-512a-48da-ae24-fdb33c7d0673.jpg" width=20 height=20)/> **Meta/Facebook**](https://about.facebook.com/meta/), *SWE* → Ordinal classification ML models to optimize ad auction bid price, feature engineering pipelines
 
 [<img src="https://user-images.githubusercontent.com/4008778/160270107-52d03bf9-987f-40e6-b65b-56f960f98a62.jpeg" width=20 height=20/> **Wealthsimple**](https://www.wealthsimple.com/), *Data* → Vector similarity search engine, classification problems, NLP chatbot, data warehousing pipelines
 
@@ -52,4 +52,4 @@
 ---
 
 ### Skills
-**Python** (*Pandas, NumPy, Scikit-learn, Keras/TensorFlow, NLTK, Spark, Matplotlib, Flask, Django*), **R**, **SQL**, **AWS**, **Dashboards** (*Plotly, Mode, Tableau, Sisense*), **Airflow**, **Java** (*JDBC*), **C#/.NET** (*LINQ, Npgsql, Regex*), **C++**, **JavaScript/TypeScript** (*Node, Express, React, Jest*), **RabbitMQ**, **Docker**, **Bash**, **Git**, **Jira**
+**Python** (*Pandas, NumPy, Scikit-learn, Keras/TensorFlow, PyTorch, NLTK, Spark, Matplotlib, Flask, Django*), **R**, **SQL**, **AWS**, **Dashboards** (*Plotly, Mode, Tableau, Sisense*), **Airflow**, **Java** (*JDBC*), **C#/.NET** (*LINQ, Npgsql, Regex*), **C++**, **JavaScript/TypeScript** (*Node, Express, React, Jest*), **RabbitMQ**, **Docker**, **Bash**, **Git**, **Jira**
