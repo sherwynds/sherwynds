@@ -13,7 +13,7 @@
 
 #### Internships
 
-[<img src="https://user-images.githubusercontent.com/4008778/160269973-eaa0ba43-512a-48da-ae24-fdb33c7d0673.jpg" width=20 height=20)/> **Meta/Facebook**](https://about.facebook.com/meta/), *SWE* → Ordinal classification ML models and feature engineering to optimize bid prices in ad auctions
+[<img src="https://user-images.githubusercontent.com/4008778/160269973-eaa0ba43-512a-48da-ae24-fdb33c7d0673.jpg" width=20 height=20)/> **Meta**](https://about.facebook.com/meta/), *SWE* → Optimized bids in ad auctions by building ordinal classification and regression models, multi-task learning modules, pipelines, evaluation APIs
 
 [<img src="https://user-images.githubusercontent.com/4008778/160270107-52d03bf9-987f-40e6-b65b-56f960f98a62.jpeg" width=20 height=20/> **Wealthsimple**](https://www.wealthsimple.com/), *Data* → Vector similarity search engine, classification problems, NLP chatbot, data warehousing pipelines
 
@@ -23,7 +23,7 @@
 
 [<img src="https://user-images.githubusercontent.com/4008778/160271082-270bffaf-bb7f-4a11-b1d8-cbe1157e62de.jpeg" width=20 height=20/> **Canalyst Financial Modeling**](https://canalyst.com/), *SWE* → Quantemental equity research tooling/dashboards, data manipulation, parse trees
 
-[<img src="https://user-images.githubusercontent.com/4008778/160271383-d70c678e-a3e3-442c-828c-7365b3fadead.jpeg" width=20 height=20/> **Tech Bytes Foundation**](https://techbytes.page/#portfolio), *Data/AI/ML Lead* → Developed projects in: [data analysis](https://github.com/sherwynds/TechBytes), [ML algorithms](https://www.kaggle.com/sherwynds/used-car-pricing-model), [reinforcement learning](https://github.com/sherwynds/Taxi-Driver-Q-Learning)
+[<img src="https://user-images.githubusercontent.com/4008778/160271383-d70c678e-a3e3-442c-828c-7365b3fadead.jpeg" width=20 height=20/> **Tech Bytes Foundation**](https://techbytes.page/#portfolio), *Data/AI/ML Lead* → Created projects in: [data analysis](https://github.com/sherwynds/TechBytes), [ML algorithms](https://www.kaggle.com/sherwynds/used-car-pricing-model), [reinforcement learning](https://github.com/sherwynds/Taxi-Driver-Q-Learning)
 
 #### Relevant Student Experience
 
