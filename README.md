@@ -11,7 +11,7 @@
 
 ### Experience
 
-#### Internships
+#### Full-time
 
 [<img src="https://user-images.githubusercontent.com/4008778/160269973-eaa0ba43-512a-48da-ae24-fdb33c7d0673.jpg" width=20 height=20)/> **Meta**](https://about.facebook.com/meta/), *SWE* → Optimized ad auction bids by building ordinal classification/regression models, ML modules, pipelines
 
@@ -25,7 +25,7 @@
 
 [<img src="https://user-images.githubusercontent.com/4008778/160271383-d70c678e-a3e3-442c-828c-7365b3fadead.jpeg" width=20 height=20/> **Tech Bytes Foundation**](https://techbytes.page/#portfolio), *Data/AI/ML Lead* → Created projects in: [data analysis](https://github.com/sherwynds/TechBytes), [ML algorithms](https://www.kaggle.com/sherwynds/used-car-pricing-model), [reinforcement learning](https://github.com/sherwynds/Taxi-Driver-Q-Learning)
 
-#### Relevant Student Experience
+#### Part-time
 
 [👨‍🏫 **UBC CS**](https://www.cs.ubc.ca/), *Teaching Assistant* → Led labs on: data analysis, algorithms, graphs, trees, search, recursion, functional programming
 
