@@ -15,7 +15,7 @@
 
 [<img src="https://user-images.githubusercontent.com/4008778/160269973-eaa0ba43-512a-48da-ae24-fdb33c7d0673.jpg" width=20 height=20)/> **Meta**](https://about.facebook.com/meta/), *SWE* → Optimized ad auction bids by building ordinal classification/regression models, ML modules, pipelines
 
-[<img src="https://user-images.githubusercontent.com/4008778/160270107-52d03bf9-987f-40e6-b65b-56f960f98a62.jpeg" width=20 height=20/> **Wealthsimple**](https://www.wealthsimple.com/), *SWE* → ML Platform, Vector similarity search engine, classification problems, NLP chatbot, data warehousing
+[<img src="https://user-images.githubusercontent.com/4008778/160270107-52d03bf9-987f-40e6-b65b-56f960f98a62.jpeg" width=20 height=20/> **Wealthsimple**](https://www.wealthsimple.com/), *SWE* → ML platform, vector similarity search engine, regression and classification, NLP chatbot, project management
 
 [<img src="https://user-images.githubusercontent.com/4008778/160270202-b2e7597d-3533-42e2-9446-7f305d4a3374.jpeg" width=20 height=20/> **Shopify**](https://www.shopify.com/), *Data* → Full-stack data science including: dashboarding, product analytics, ETL pipelines
 
