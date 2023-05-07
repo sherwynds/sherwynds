@@ -52,4 +52,4 @@
 ---
 
 ### Skills
-**Python** (*Pandas, NumPy, Scikit-learn, Keras/TensorFlow, PyTorch, NLTK, Spark, Matplotlib, Flask, Django*), **R**, **SQL**, **AWS**, **Dashboards** (*Plotly, Mode, Tableau, Sisense*), **Airflow**, **Java** (*JDBC*), **C#/.NET** (*LINQ, Npgsql, Regex*), **C++**, **JavaScript/TypeScript** (*Node, Express, React, Jest*), **RabbitMQ**, **Docker**, **Bash**, **Git**, **Jira**
+**Python** (*Pandas, NumPy, Scikit-learn, Keras/TensorFlow, PyTorch, NLTK, Spark, Matplotlib, Flask, Django*), **R**, **SQL**, **Airflow**, **AWS** (*S3, ElasticSearch*), **Triton Inference Server**, **C#/.NET** (*LINQ, Npgsql, Regex*), **Dashboards** (*Plotly, Mode, Tableau, Preset/Superset*), **Java** (*JDBC*),  **C++**, **JavaScript/TypeScript** (*Node, Express, React, Jest*), **RabbitMQ**, **Docker**, **Bash**, **Git**, **Jira**, **Notion**
