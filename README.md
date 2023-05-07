@@ -13,7 +13,7 @@
 
 #### Full-time
 
-[<img src="https://user-images.githubusercontent.com/4008778/160269973-eaa0ba43-512a-48da-ae24-fdb33c7d0673.jpg" width=20 height=20)/> **Meta**](https://about.facebook.com/meta/), *SWE* → Optimized ad auction bids by building ordinal classification/regression models, multi-task multi-label modules, pipelines
+[<img src="https://user-images.githubusercontent.com/4008778/160269973-eaa0ba43-512a-48da-ae24-fdb33c7d0673.jpg" width=20 height=20)/> **Meta**](https://about.facebook.com/meta/), *SWE* → Optimized ad auction bids through ordinal classification/regression models, multi-task multi-label modules, pipelines
 
 [<img src="https://user-images.githubusercontent.com/4008778/160270107-52d03bf9-987f-40e6-b65b-56f960f98a62.jpeg" width=20 height=20/> **Wealthsimple**](https://www.wealthsimple.com/), *SWE* → ML platform, LLMs, vector similarity search, classification/regression, NLP chatbot, project management
 
