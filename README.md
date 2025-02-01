@@ -6,7 +6,7 @@
 
 ### Education
 
-[<img src="https://user-images.githubusercontent.com/4008778/236663530-325f8365-4656-4188-81f5-7b9622b1b295.png" width=20 height=20)/>](https://www.cc.gatech.edu) **Master of CS, Machine Learning (In Progress)**, *Georgia Tech* → ML for Trading
+[<img src="https://user-images.githubusercontent.com/4008778/236663530-325f8365-4656-4188-81f5-7b9622b1b295.png" width=20 height=20)/>](https://www.cc.gatech.edu) **Master of CS, Machine Learning (In Progress)**, *Georgia Tech* → ML for Trading, AI for Robotics, Financial Modeling, NLP
 
 [<img src="https://user-images.githubusercontent.com/4008778/160269552-8680ef91-455a-44f1-911f-de4d35db77dd.jpeg" width=20 height=20)/>](https://www.cs.ubc.ca) **Bachelor of CS + Business**, *University of British Columbia* → [Applied ML](https://github.com/sherwynds/Applied-Machine-Learning), [AI II](https://github.com/sherwynds/Advanced-AI), [AI](https://github.com/sherwynds/Constraint-Satisfaction-DFS), [Databases](https://github.com/sherwynds/Car-Rental-Reservation-DB), Algorithms, SWE, [ML (Coursera)](https://github.com/sherwynds/Machine-Learning)
 
