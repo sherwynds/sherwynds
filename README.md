@@ -16,6 +16,9 @@
 
 #### Full-time
 
+
+[<img src="https://github.com/user-attachments/assets/bf811a10-732b-4992-ba9a-a4697c9f48a0" width=20 height=20)/> **Stripe**](https://about.facebook.com/meta/), *SWE* → Reusable ML libraries and pre-built models for rapid prototyping, experiementation, and productionization
+
 [<img src="https://user-images.githubusercontent.com/4008778/160269973-eaa0ba43-512a-48da-ae24-fdb33c7d0673.jpg" width=20 height=20)/> **Meta**](https://about.facebook.com/meta/), *SWE* → Optimized ad auction bids with ordinal classification/regression models, multi-task deep learning, pipelines
 
 [<img src="https://user-images.githubusercontent.com/4008778/160270107-52d03bf9-987f-40e6-b65b-56f960f98a62.jpeg" width=20 height=20/> **Wealthsimple**](https://www.wealthsimple.com/), *SWE* → ML platform, [LLMs](https://medium.com/wealthsimple/get-to-know-our-llm-gateway-and-how-it-provides-a-secure-and-reliable-space-to-use-generative-ai-4fd6eeb6d74d), vector similarity search, classification/regression, NLP chatbot, project management
