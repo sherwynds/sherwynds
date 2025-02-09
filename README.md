@@ -21,7 +21,7 @@
 
 [<img src="https://user-images.githubusercontent.com/4008778/160269973-eaa0ba43-512a-48da-ae24-fdb33c7d0673.jpg" width=20 height=20)/> **Meta**](https://about.facebook.com/meta/), *SWE* → Optimized ad auction bids with ordinal classification/regression models, multi-task deep learning, pipelines
 
-[<img src="https://user-images.githubusercontent.com/4008778/160270107-52d03bf9-987f-40e6-b65b-56f960f98a62.jpeg" width=20 height=20/> **Wealthsimple**](https://www.wealthsimple.com/), *SWE* → ML platform, [LLMs](https://medium.com/wealthsimple/get-to-know-our-llm-gateway-and-how-it-provides-a-secure-and-reliable-space-to-use-generative-ai-4fd6eeb6d74d), vector similarity search, classification/regression, NLP chatbot, project management
+[<img src="https://user-images.githubusercontent.com/4008778/160270107-52d03bf9-987f-40e6-b65b-56f960f98a62.jpeg" width=20 height=20/> **Wealthsimple**](https://www.wealthsimple.com/), *SWE* → ML platform, [LLMs](https://medium.com/wealthsimple/get-to-know-our-llm-gateway-and-how-it-provides-a-secure-and-reliable-space-to-use-generative-ai-4fd6eeb6d74d), RAG/GenAI, vector similarity search, NLP chatbot, project management
 
 [<img src="https://user-images.githubusercontent.com/4008778/160270202-b2e7597d-3533-42e2-9446-7f305d4a3374.jpeg" width=20 height=20/> **Shopify**](https://www.shopify.com/), *Data* → Full-stack data science including: dashboarding, product analytics, ETL pipelines
 
@@ -58,4 +58,5 @@
 ---
 
 ### Skills
-**Python** (*Pandas, NumPy, Scikit-learn, Keras/TensorFlow, PyTorch, NLTK, Spark, Matplotlib, FastAPI, Flask, Django*), **R**, **SQL**, **Airflow**, **AWS** (*S3, ElasticSearch*), **NVIDIA Triton**, **LLMs** (*ChatGPT, LLaMA, Cohere, Langchain, Vector DBs*), **C#/.NET** (*LINQ, Npgsql, Regex*), **Dashboards** (*Streamlit, Plotly, Mode, Tableau, Preset/Superset*), **Java** (*JDBC*),  **C++**, **JavaScript/TypeScript** (*Node, Express, React, Jest*), **RabbitMQ**, **Docker**, **Bash**, **Git**, **Jira**, **Notion**
+
+**Python** (*Pandas, NumPy, PyTorch, Sklearn, Matplotlib, Wandb, MLflow, Spark, FastAPI, Flask, NLTK*), **R**, **SQL**, **Orchestrators** (*Airflow, Flyte*), **AWS** (*S3, ElasticSearch*), **NVIDIA Triton**, **LLMs** (*ChatGPT, LLaMA, Cohere, Langchain, Vector DBs*), **C#/.NET** (*LINQ, Npgsql, Regex*), **Dashboards** (*Streamlit, Plotly, Mode, Tableau, Preset/Superset*), **Java** (*JDBC, JUnit, Swing*),  **C++**, **JavaScript/TypeScript** (*Node, Express, React, Jest*), **RabbitMQ**, **Docker**, **Bash**, **Git**, **Jira**, **Notion**
